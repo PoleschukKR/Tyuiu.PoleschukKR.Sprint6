@@ -127,7 +127,7 @@ namespace Tyuiu.PoleschukKR.Sprint6.Task3.V22
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(984, 289);
+            this.ClientSize = new System.Drawing.Size(984, 589);
             this.Controls.Add(this.buttonHelp_PKR);
             this.Controls.Add(this.buttonDone_PKR);
             this.Controls.Add(this.groupBoxResult_PKR);
