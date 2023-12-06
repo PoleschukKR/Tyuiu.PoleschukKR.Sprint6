@@ -21,7 +21,7 @@ namespace Tyuiu.PoleschukKR.Sprint6.Task1.V3.Lib
             for (int x = startValue; x <= stopValue; x++)
             { 
                 y = 5 - 3 * x+ (1 + Math.Sin(x)) / (2 * x - 0.5); 
-                y = Math.Round(y, 2);
+                y = Math.Round(y,2);
                 valueArray[count] = y;
                 count++;
             }
