@@ -63,7 +63,7 @@ namespace Tyuiu.PoleschukKR.Sprint6.Task3.V22
 
             for (int i = 0; i < columns; i++)
             {
-                dataGridViewResult_PKR.Columns[i].Width = 30;
+                dataGridViewResult_PKR.Columns[i].Width =30;
             }
 
 
