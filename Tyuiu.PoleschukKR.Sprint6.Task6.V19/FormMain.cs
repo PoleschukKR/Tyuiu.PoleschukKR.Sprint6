@@ -34,7 +34,6 @@ namespace Tyuiu.PoleschukKR.Sprint6.Task6.V19
         {
 
             textBoxResult_PKR.Text = ds.CollectTextFromFile(path);
-
         }
 
         private void buttonInfo_PKR_Click(object sender, EventArgs e)
