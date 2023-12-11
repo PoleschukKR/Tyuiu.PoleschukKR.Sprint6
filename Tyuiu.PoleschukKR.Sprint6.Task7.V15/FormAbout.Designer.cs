@@ -49,7 +49,7 @@ namespace Tyuiu.PoleschukKR.Sprint6.Task7.V15
             // labelInfo_PKR
             // 
             this.labelInfo_PKR.AutoSize = true;
-            this.labelInfo_PKR.Location = new System.Drawing.Point(165, 12);
+            this.labelInfo_PKR.Location = new System.Drawing.Point(164, 12);
             this.labelInfo_PKR.Name = "labelInfo_PKR";
             this.labelInfo_PKR.Size = new System.Drawing.Size(368, 136);
             this.labelInfo_PKR.TabIndex = 1;

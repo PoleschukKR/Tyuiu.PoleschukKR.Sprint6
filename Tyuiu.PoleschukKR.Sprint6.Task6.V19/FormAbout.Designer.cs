@@ -42,14 +42,15 @@ namespace Tyuiu.PoleschukKR.Sprint6.Task6.V19
             this.pictureBoxAvatar_PKR.InitialImage = null;
             this.pictureBoxAvatar_PKR.Location = new System.Drawing.Point(12, 12);
             this.pictureBoxAvatar_PKR.Name = "pictureBoxAvatar_PKR";
-            this.pictureBoxAvatar_PKR.Size = new System.Drawing.Size(191, 147);
+            this.pictureBoxAvatar_PKR.Size = new System.Drawing.Size(157, 156);
+            this.pictureBoxAvatar_PKR.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBoxAvatar_PKR.TabIndex = 0;
             this.pictureBoxAvatar_PKR.TabStop = false;
             // 
             // labelInfo_PKR
             // 
             this.labelInfo_PKR.AutoSize = true;
-            this.labelInfo_PKR.Location = new System.Drawing.Point(209, 13);
+            this.labelInfo_PKR.Location = new System.Drawing.Point(175, 13);
             this.labelInfo_PKR.Name = "labelInfo_PKR";
             this.labelInfo_PKR.Size = new System.Drawing.Size(368, 119);
             this.labelInfo_PKR.TabIndex = 1;
@@ -57,7 +58,7 @@ namespace Tyuiu.PoleschukKR.Sprint6.Task6.V19
             // 
             // buttonOK_PKR
             // 
-            this.buttonOK_PKR.Location = new System.Drawing.Point(489, 135);
+            this.buttonOK_PKR.Location = new System.Drawing.Point(455, 135);
             this.buttonOK_PKR.Name = "buttonOK_PKR";
             this.buttonOK_PKR.Size = new System.Drawing.Size(88, 33);
             this.buttonOK_PKR.TabIndex = 2;
@@ -69,7 +70,7 @@ namespace Tyuiu.PoleschukKR.Sprint6.Task6.V19
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(581, 171);
+            this.ClientSize = new System.Drawing.Size(565, 177);
             this.Controls.Add(this.buttonOK_PKR);
             this.Controls.Add(this.labelInfo_PKR);
             this.Controls.Add(this.pictureBoxAvatar_PKR);

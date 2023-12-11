@@ -33,9 +33,9 @@ namespace Tyuiu.PoleschukKR.Sprint6.Task7.V15.Lib
 
             for (int r = 0; r < rows; r++)
             {
-                if (arrayValues[r, 7] < 10 && arrayValues[r,7] % 3 == 0 && arrayValues[r,7] != 0)
+                if (arrayValues[r, 6] < 10 && arrayValues[r,6] % 3 == 0 && arrayValues[r,6] != 0)
                 {
-                    arrayValues[r, 7] = 3;
+                    arrayValues[r, 6] = 3;
                 }
             }
             return arrayValues;
